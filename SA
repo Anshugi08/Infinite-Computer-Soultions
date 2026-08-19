@@ -1,1 +1,69 @@
+----------------------------------------------------------------------------------------------------
+SA-MODULE
+----------------------------------------------------------------------------------------------------
+Session-1: This Session will help you to understand,how to generate the new comments to inbox report 
+           afetr running the OPR-SRA-135 batch job.
+Session-2: This Session will help you to understand,how to generate the new attachment to inbox report
+           after running the OPR-SRA-137 btach job.
+Session-3: This Session will help you to understand, how to generate the status Report to inbox afetr 
+            running the OPR-SRA-139 batch job.
+Session-4: This session will help you in understanding of below functional areas.
+           ->Validate user can add CSP Refferal via the Provider Web Portal and 
+             Refferal is automatically approved.
+Session-5: This Session will help you in understanding of below functional areas.
+           ->Validate user can add Refferal via the Provider Web Portal.
+              and Refferal is automatically approved ND-BR-10-0364.
+Session-6: This Session will help you in understanding of below functional areas.
+           ->Validate user can add Refferal with user ID setup with RPM.
+             securityrole ND-Service AutherizationReferralCSP.
+Session-7:This Session will help you in understanding of below functional areas.
+          ->Validate user can add Refferal with user ID setup with RPM security role.
+            ND-Service AuthorizationReferral.
+Session-8: This Session will help you in understanding of below functional areas
+          -> What is referral.
+          ->How to search Refferal through Provider Web Portal.
+Session-9: This session will help you in understanding of below functional areas.
+          ->What is SA Threap?
+          ->What is Threap inbound and outbound interface?
+          ->How level-1 and 2 rejection will happen?
+          ->Screenshots in MMIS system.
+          ->Use Case details and Database tables.
+Session-10: The session will help you in understanding of below functional areas. 
+          ->Creating Dental SA through provider web portal
+           ->Enquiring in DB AND UI.
+Session-11: Service Autherization-Adjudicator.
 
+Session-12: This session will help you in 
+            understanding of below functional areas.
+
+Session-13: This session will help you in understanding of below functional areas.
+
+Session-14:This session will help you in understanding of below functional areas.
+
+Session-15:This session will help you in understanding of below functional areas.
+
+Session-16: This session will help you in understanding of below functional areas.
+
+Session-17: This session will help you in understanding of below functional areas.
+
+Session-18: This session will help you in understanding of below functional areas.
+
+Session-19: This session will help you in understanding of below functional areas.
+
+Session-20: This session will help you in understanding of below functional areas.
+
+Session-21: This session will help you in understanding of below functional areas.
+
+Session-22: This session will help you in understanding of below functional areas.
+
+Session-23: This session will help you in understanding of below functional areas.
+
+Session-24: This session will help you in understanding of below functional area.
+
+Session-25: This session will help you in understanding of below functional areas.
+
+Session-26: This session will help you in understanding of below functional areas.
+
+Session-27: This session will help you in understanding of below functional areas-
+       -> Inquiry Service Autherization via the Provider Web Portal,Update and save
+       -> Inquiring in DB and UI.
