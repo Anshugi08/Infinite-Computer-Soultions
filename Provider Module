@@ -1,1 +1,26 @@
 
+Session-1:  Trading partner enrollment.
+Session-2:  Trading Partner maintainance.
+Session-3:  This Session will help you in undersatnding of below functional areas.
+            ->Introduction to provider and Sandata.
+            -> Provider-Integration of MMIS with Sandata.
+            ->Sandata Use case details and data base tables and system parameters.
+Session-4: This session will help you in understanding of below functional areas.
+           -> what is individual provider enrollment?
+           -> why we should require individual provider?
+           -> what is the navigation for creating individual enrollment?
+           -> waht are the links we need to point in while creating individual provider enrollment?
+Session-5: This session will help you to understand usage of provider inquiry.
+
+Session-6: This session will help you to understand ,process of submitting the revalidation application for 
+           all providers who are due for revalidation and activate the provider 
+           under provider maintainance using internal user.
+
+Session-7: This session will help you to understand,how to add/Update Provider appeals.
+
+Session-8: This session will help in understanding the provider enquiry.
+Session-9: Provider Application maitainance.(Deny individual/Group individual).
+Session-10: Provider Application maintainace.(Approve individual/Group individual).
+Session-11:Provider maintainance.
+Session-12:Provider Application maintainace.(Group enrollment multiple location).
+Session-13:Provider app mainatainace.
