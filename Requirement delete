@@ -1,1 +1,19 @@
+2. XML Comparison Utility Documentation
+Please prepare a document explaining the utility end-to-end so that any developer can understand its design and functionality.
+Include:
+Objective and scope
+High-level workflow/flow diagram
+Application architecture and package structure
+Key classes and responsibilities
+XML comparison logic
+Sample input/output
+Error handling approach
+Design decisions and assumptions
+Limitations
+Future enhancement opportunities
+Copilot usage (prompts and outputs)
+Deliverables:
+Design document (Word/PDF)
+Workflow diagram
+Sample inputs and outputs
 
